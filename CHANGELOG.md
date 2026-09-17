@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.0.1 — 2026-09-17
+
+- Converted daily practice cards from Chinese interface copy into language-neutral prompt meanings.
+- Marked the Chinese one-minute example as illustrative rather than a fixed product locale.
+
 ## 2.0.0 — 2026-09-17
 
 - Repositioned `stoic-coach` as `Stoic Daily Practice`.

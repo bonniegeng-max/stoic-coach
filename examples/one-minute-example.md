@@ -1,5 +1,7 @@
 # One-Minute Example
 
+This is a Chinese-language example because the sample request is Chinese. It does not set the product language; every real response follows the language of the user's current request.
+
 ## User request
 
 ```text

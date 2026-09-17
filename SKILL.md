@@ -1,6 +1,6 @@
 ---
 name: stoic-coach
-version: 2.0.0
+version: 2.0.1
 description: Guide a one-minute control check, Stoic morning preview, evening review, or practical reflection on a concrete situation. Use when the user explicitly asks for a Stoic exercise, daily practice, dichotomy of control, premeditatio malorum, evening reflection, or Stoic help with their own case.
 ---
 
