@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.0.2 — 2026-10-27
+
+- 首屏中文化：description 中文前置并给出使用场景（事情有点乱、想把可控与不可控切开），保留英文触发词以维持英文检索。功能零变化。
+
 ## 2.0.1 — 2026-09-17
 
 - Converted daily practice cards from Chinese interface copy into language-neutral prompt meanings.

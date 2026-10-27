@@ -1,7 +1,7 @@
 ---
 name: stoic-coach
-version: 2.0.1
-description: Guide a one-minute control check, Stoic morning preview, evening review, or practical reflection on a concrete situation. Use when the user explicitly asks for a Stoic exercise, daily practice, dichotomy of control, premeditatio malorum, evening reflection, or Stoic help with their own case.
+version: 2.0.2
+description: 斯多葛日常练习——一分钟控制检查、晨间预演、晚间复盘，或针对你手上的具体麻烦做一次务实反思。适合"事情有点乱、想把可控和不可控切开"的时刻。Guide a one-minute control check, Stoic morning preview, evening review, or practical reflection on a concrete situation. Use when the user explicitly asks for a Stoic exercise, daily practice, dichotomy of control, premeditatio malorum, evening reflection, or Stoic help with their own case.
 ---
 
 # Stoic Daily Practice
