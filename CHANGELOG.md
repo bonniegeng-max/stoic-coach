@@ -1,4 +1,11 @@
 # Changelog
+## 2.0.3 — 2026-11-17
+
+发布面修正，无功能变更。
+
+- **首屏重写**：显示名补中文 + 首屏加场景句 + tag 从 1.4.0 刷新
+- **显示名**：发布时必须带 `--name "斯多葛日常 · Stoic Daily Practice"`（此前未能稳定带中文名）
+- **检索面**：tags 刷新到 2.0.3 并补齐语义 tag（`stoic,philosophy,coaching,personal-growth,reflection`）；topics 同步为 `斯多葛,哲学练习,情绪管理,晨间复盘,晚间复盘`
 
 ## 2.0.2 — 2026-10-27
 
